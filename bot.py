@@ -3,6 +3,15 @@ from roller import fullRoll
 from parse import parseCmd
 from discord.ext import commands
 from config import settings
+#settings structure
+#settings = {
+# 'token': '<token>',
+# 'bot': 'Roll',
+# 'id': <ID>,
+# 'prefix': '!'
+#}
+
+
 
 #todo: system dictionary
 # d20
